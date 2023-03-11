@@ -65,7 +65,7 @@
                <div class="col-md-4" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Hydrosalpinx.jpg" alt="">
-                     <a href="http://localhost/gbr/hydrosalpinx.php" target="_blank">
+                     <a href="hydrosalpinx.php" target="_blank">
                         <h4 style="padding-top:10px">What is Hydrosalpinx and why is it a concern?</h4>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
@@ -74,7 +74,7 @@
                <div class="col-md-4" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/gbr-ivf1.jpg" alt="">
-                     <a href="http://localhost/gbr/ivf-blog.php" target="_blank">
+                     <a href="ivf-blog.php" target="_blank">
                      <h4 style="padding-top:20px; padding-bottom: 20px;">What is IVF?</h4>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
@@ -83,7 +83,7 @@
                 <div class="col-md-4" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/corono-virus.jpg" alt="">                   
-                     <a href="http://localhost/gbr/icsi.php" target="_blank">
+                     <a href="fertility-pregancy-and-coronavirus.php" target="_blank">
                     <h4 style="padding-top:20px; padding-bottom: 20px;">Pregnancy And Coronavirus</h4>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
@@ -94,7 +94,7 @@
                <div class="col-md-4" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/male-infertility.jpg" alt="">
-                     <a href="http://localhost/gbr/laparoscopy.php" target="_blank">
+                     <a href="male-infertility.php" target="_blank">
                        <h4 style="padding-top:20px; padding-bottom: 20px;">What is Male Infertility?</h4>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
@@ -103,7 +103,7 @@
                <div class="col-md-4" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Fertility.png" alt="">                   
-                     <a href="http://localhost/gbr/hysteroscopy.php" target="_blank">
+                     <a href="know-about-fertility.php" target="_blank">
                        <h4 style="padding-top:10px">Know about Fertility - 7 Things Men should look out for</h4>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
@@ -112,16 +112,17 @@
                 <div class="col-md-4" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Understanding-Obesity-Pregnancy.png" alt="">
-                     <a href="http://localhost/gbr/laparoscopy.php" target="_blank">
+                     <a href="understanding-obesity-pregnancy.php" target="_blank">
                           <h4 style="padding-top:20px; padding-bottom: 20px;">Understanding Obesity Pregnancy</h4>
                          <div class="btn1 button1">Read More</div>
+
                      </a>                                                    
                </div>    
 
                  <div class="col-md-4" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Post-Pregnancy-care.png" alt="">
-                     <a href="http://localhost/gbr/postpartum-care.php" target="_blank">
+                     <a href="postpartum-care.php" target="_blank">
                         <h4 style="padding-top:10px">Post Pregnancy Care Tips</h4>
                          <div class="btn1 button1">Read More</div>
                      </a>                                                    
