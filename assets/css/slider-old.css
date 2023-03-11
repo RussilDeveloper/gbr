@@ -1,0 +1,320 @@
+
+.fa-spin {
+  -webkit-animation: fa-spin 2s infinite linear;
+          animation: fa-spin 2s infinite linear; }
+
+.fa-pulse {
+  -webkit-animation: fa-spin 1s infinite steps(8);
+          animation: fa-spin 1s infinite steps(8); }
+
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+.large-container {
+    position: static;
+    max-width: 1580px;
+    padding: 0px 30px;
+    margin: 0 auto;
+}
+
+.testimonial-section{
+  position: relative;
+  padding-top: 80px;
+  padding-bottom: 210px;
+}
+
+.testimonial-section:before{
+  position: absolute;
+  left: -200px;
+  top: 42%;
+  background-image: url(http://t.commonsupport.com/adro/images/icons/ring-circle.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 701px;
+  height: 756px;
+  content: "";
+  -webkit-animation: fa-spin 25s infinite alternate;
+  -moz-animation: fa-spin 25s infinite alternate;
+  -ms-animation: fa-spin 25s infinite alternate;
+  -o-animation: fa-spin 25s infinite alternate;
+  animation: fa-spin 25s infinite alternate;
+}
+
+.testimonial-section .sec-title{
+  position: relative;
+  margin-bottom: 115px;
+}
+
+.testimonial-section .sec-title .title{
+  margin-bottom: 20px;
+}
+
+.testimonial-section .testimonial-carousel{
+  position: relative;
+  /*max-width: 1100px;
+  margin: 0 -50px;*/
+}
+
+.testimonial-block{
+  position: relative;
+  padding-right: 10px;
+}
+
+.testimonial-block .inner-box{
+  padding: 20px;
+  background-color:#ffffff;
+  box-shadow: 0 0 50px rgba(226,222,232,0.75);
+}
+
+.testimonial-block .text{
+  position: relative;
+  display: block;
+  font-size: 18px;
+  line-height: 32px;
+  color: #282331;
+  font-weight: 400;
+  margin-bottom: 50px;
+  font-family: "Muli", sans-serif;
+}
+
+.testimonial-block .info-box{
+  position: relative;
+  padding-left: 115px;
+  padding-top: 10px;
+}
+
+.testimonial-block .info-box .thumb{
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 82px;
+  width: 82px;
+}
+
+.testimonial-block .info-box .thumb img{
+  border: 6px solid #e5e6fa;
+  border-radius: 50%;
+  overflow: hidden;
+  display: block;
+  width: 100%;
+  box-shadow: 0 45px 45px rgba(147,147,147,0.35);
+}
+
+.testimonial-block .info-box .name{
+  position: relative;
+  display: block;
+  font-size: 21px;
+  line-height: 1.2em;
+  color: #382c4d;
+  font-weight: 700;
+  margin-bottom: 10px;
+  font-family: "Niramit", sans-serif;
+}
+
+.testimonial-block .info-box .designation{
+  position: relative;
+  display: block;
+  font-size: 16px;
+  line-height: 24px;
+  color: #8053f7;
+  font-weight: 400;
+  font-family: "Muli", sans-serif;
+}
+
+.testimonial-carousel .owl-nav{
+  position: absolute;
+    right: 75px;
+    bottom: 70px;
+}
+
+.testimonial-carousel .owl-next,
+.testimonial-carousel .owl-prev{
+  position: relative;
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  line-height: 75px;
+  text-align: center;
+  border-radius: 50%;
+  background-color:#ffffff;
+  -webkit-transition: all 300ms ease;
+  -moz-transition: all 300ms ease;
+  -ms-transition: all 300ms ease;
+  -o-transition: all 300ms ease;
+  transition: all 300ms ease;
+}
+
+.testimonial-carousel .owl-next:hover,
+.testimonial-carousel .owl-prev:hover{
+  background-color:#00df97;
+  box-shadow: 0 24px 24px rgba(187,187,187,.75);
+}
+
+.arrow-right,
+.arrow-left{
+  position: relative;
+  display: inline-block;
+  height: 9px;
+  width: 43px;
+  background-image: url(http://t.commonsupport.com/adro/images/icons/arrow-left-2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.arrow-right{
+  background-image: url(http://t.commonsupport.com/adro/images/icons/arrow-right-2.png);
+}
+
+.testimonial-section .thumb-layer{
+    position: absolute;
+    right: 30px;
+    top: 120px;
+}
+
+.testimonial-section .thumb-layer .image{
+  position: relative;
+  margin-right: 0;
+}
+
+.testimonial-section .thumb-layer .image img{
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+/*services*/
+
+.holderCircle { width: 500px; height: 500px; border-radius: 100%; margin: 60px auto; position: relative; }
+
+
+.dotCircle { width: 100%; height: 100%; position: absolute; margin: auto; top: 0; left: 0; right: 0; bottom: 0; border-radius: 100%; z-index: 20; }
+.dotCircle  .itemDot { display: block; width: 80px; height: 80px; position: absolute; background: #ffffff; color: #19a9a5; border-radius: 20px; text-align: center;  font-size: 30px; z-index: 3; cursor: pointer; }
+.dotCircle  .itemDot .forActive { width: 56px; height: 56px; position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: none; }
+.dotCircle  .itemDot .forActive::after { content: ''; width: 5px; height: 5px; border: 3px solid #19a9a5; bottom: -31px; left: -14px; filter: blur(1px); position: absolute; border-radius: 100%; }
+.dotCircle  .itemDot .forActive::before { content: ''; width: 6px; height: 6px; filter: blur(5px); top: -15px; position: absolute; transform: rotate(-45deg); border: 6px solid #19a9a5; right: -39px; }
+.dotCircle  .itemDot.active .forActive { display: block; }
+.round { position: absolute; left: 40px; top: 45px; width: 410px; height: 410px; border: 2px dotted #19a9a5; border-radius: 100%; -webkit-animation: rotation 100s infinite linear; }
+.dotCircle .itemDot:hover, .dotCircle .itemDot.active { box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px; border-radius:50px;padding:5px;background-color:#c8fffc }
+.dotCircle .itemDot { font-size: 40px; }
+.contentCircle { width: 250px; border-radius: 100%; color: #19a9a5; position: relative; top: 150px; left: 50%; transform: translate(-50%, -50%); }
+.contentCircle .CirItem { border-radius: 100%; color: #19a9a5; position: absolute; text-align: center; bottom: 0; left: 0; opacity: 0; transform: scale(0); transition: 0.5s; font-size: 15px; width: 100%; height: 100%; top: 0; right: 0; margin: auto; line-height: 250px; }
+.CirItem.active { z-index: 1; opacity: 1; transform: scale(1); transition: 0.5s; }
+.contentCircle .CirItem img { position: absolute; top: 0; left: 35%; margin-left: -90px; color: #000000; opacity: 0.1; }
+@media only screen and (min-width:300px) and (max-width:599px) {
+  .holderCircle { width: 300px; height: 300px; margin: 110px auto; }
+  .holderCircle::after { width: 100%; height: 100%; }
+  .dotCircle { width: 100%; height: 100%; top: 0; right: 0; bottom: 0; left: 0; margin: auto; }
+}
+@media only screen and (min-width:600px) and (max-width:767px) { }
+@media only screen and (min-width:768px) and (max-width:991px) { }
+@media only screen and (min-width:992px) and (max-width:1199px) { }
+@media only screen and (min-width:1200px) and (max-width:1499px) { }
+  .title-box .title { font-weight: 600; letter-spacing: 2px; position: relative; z-index: -1; }
+        .title-box span { text-shadow: 0 10px 10px rgba(0, 0, 0, .15); font-weight: 800; color: #19a9a5; }
+        .title-box p {font-size: 17px; line-height: 2em; }
+
+
+
+
+.header {
+  position:relative;
+  text-align:center;
+  background: url(../img/Background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  color:white;
+}
+.logo {
+  width:50px;
+  fill:white;
+  padding-right:15px;
+  display:inline-block;
+  vertical-align: middle;
+}
+
+.inner-header {
+/*  height:65vh;*/
+  width:100%;
+  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.flex { /*Flexbox for containers*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.waves {
+  position:relative;
+  width: 100%;
+  height:15vh;
+  margin-bottom:-11px; /*Fix for safari gap*/
+  min-height:100px;
+  max-height:150px;
+}
+
+.content {
+  position:relative;
+  height:20vh;
+  text-align:center;
+  background-color: white;
+}
+
+/* Animation */
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+   transform: translate3d(-90px,0,0);
+  }
+  100% { 
+    transform: translate3d(85px,0,0);
+  }
+}
+/*Shrinking for mobile*/
+@media (max-width: 768px) {
+  .waves {
+    height:40px;
+    min-height:40px;
+  }
+  .content {
+    height:30vh;
+  }
+  h1 {
+    font-size:24px;
+  }
+}
+
