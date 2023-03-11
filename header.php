@@ -55,10 +55,11 @@
                            
                            <li class="dropdown"><a href="#" data-scroll-nav="1">Our Services</a>
                               <ul>
-                                  <li><a href="http://localhost/gbr/primary-services.php" target="_blank">Primary Services</a></li>                                                                              
-                                  <li><a href="http://localhost/gbr/additional-services.php" target="_blank">Additional Services</a></li>
+                                  <li><a href="primary-services.php" target="_blank">Primary Services</a></li>                                                                              
+                                  <li><a href="additional-services.php" target="_blank">Additional Services</a></li>
                               </ul>
                            </li>
+                           <li class="dropdown"><a href="blogs.php" data-scroll-nav="1">Our Blogs</a>
 
                           
                            
