@@ -59,10 +59,8 @@
                                   <li><a href="additional-services.php" target="_blank">Additional Services</a></li>
                               </ul>
                            </li>
-                           <li class="dropdown"><a href="blogs.php" data-scroll-nav="1">Our Blogs</a>
 
-                          
-                           
+                           <li><a href="blogs.php" target="_blank">Our Blogs</a></li>                                                    
                            <li><a href="#" data-scroll-nav="4">Contact Us</a>
                            </li>
                         </ul>
