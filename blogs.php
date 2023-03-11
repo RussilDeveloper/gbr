@@ -15,8 +15,8 @@
       .pd{padding-top:130px !important;padding-bottom: 40px;}                        
       .sec1{background-color:#D1F0F1; padding-bottom:60px;}               
       .hed{color:#ffffff; font-size: 45px; font-weight: normal ;text-align: center;}
-      .btn1{margin-top: 20px; border-radius: 50px ; font-size: 20px; padding: 12px;
-        width: 100% ;
+      .btn1{margin-top: 20px; border-radius: 50px ; font-size: 18px; padding: 8px;
+        width: 50% ;
         color: #000; background-color:#ffffff; border: 0.5px solid #4CAF50; text-align: center;  transition: all 0.5s;
         cursor: pointer;} 
 
@@ -66,7 +66,7 @@
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Hydrosalpinx.jpg" alt="">
                      <a href="hydrosalpinx.php" target="_blank">
-                        <h4 style="padding-top:10px">What is Hydrosalpinx and why is it a concern?</h4>
+                        <h5 style="padding-top:10px">What is Hydrosalpinx and why is it a concern?</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>  
@@ -75,7 +75,7 @@
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/gbr-ivf1.jpg" alt="">
                      <a href="ivf-blog.php" target="_blank">
-                     <h4 style="padding-top:20px; padding-bottom: 20px;">What is IVF?</h4>
+                     <h5 style="padding-top:20px; padding-bottom: 20px;">What is IVF?</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>   
@@ -84,7 +84,7 @@
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/corono-virus.jpg" alt="">                   
                      <a href="fertility-pregancy-and-coronavirus.php" target="_blank">
-                    <h4 style="padding-top:20px; padding-bottom: 20px;">Pregnancy And Coronavirus</h4>
+                    <h5 style="padding-top:20px; padding-bottom: 20px;">Pregnancy And Coronavirus</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>  
@@ -95,7 +95,7 @@
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/male-infertility.jpg" alt="">
                      <a href="male-infertility.php" target="_blank">
-                       <h4 style="padding-top:20px; padding-bottom: 20px;">What is Male Infertility?</h4>
+                       <h5 style="padding-top:20px; padding-bottom: 20px;">What is Male Infertility?</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>   
@@ -104,7 +104,7 @@
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Fertility.png" alt="">                   
                      <a href="know-about-fertility.php" target="_blank">
-                       <h4 style="padding-top:10px">Know about Fertility - 7 Things Men should look out for</h4>
+                       <h5 style="padding-top:20px;">Know about Fertility - 7 Things Men should look out for</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>  
@@ -113,7 +113,7 @@
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Understanding-Obesity-Pregnancy.png" alt="">
                      <a href="understanding-obesity-pregnancy.php" target="_blank">
-                          <h4 style="padding-top:20px; padding-bottom: 20px;">Understanding Obesity Pregnancy</h4>
+                          <h5 style="padding-top:20px; padding-bottom: 20px;">Understanding Obesity Pregnancy</h5>
                          <div class="btn1 button1">Read More</div>
 
                      </a>                                                    
@@ -123,7 +123,7 @@
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Post-Pregnancy-care.png" alt="">
                      <a href="postpartum-care.php" target="_blank">
-                        <h4 style="padding-top:10px">Post Pregnancy Care Tips</h4>
+                        <h5 style="padding-top:20px">Post Pregnancy Care Tips</h5>
                          <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>    
