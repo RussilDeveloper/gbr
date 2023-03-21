@@ -30,14 +30,7 @@
          .hed{color:#ffffff; font-size: 45px; font-weight: normal ;text-align: center;}
           .vd{box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px; border-radius: 10px}
 
-       /*@media screen and (max-width: 800px)
-        {
-         .flex{flex-direction:column;
-         }
-          .hd{
-        margin-top: -30px;
-        margin-bottom: -20px;
-      }*/
+      
 
     
         .nav{
@@ -61,13 +54,20 @@
         vertical-align: super;
     }
 
+    .btn2{
+        border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+
 body {font-family: Arial;}
 
 /* Style the tab */
 .tab {
   overflow: hidden;
-  border: 1px solid #00ACAE;
-  background-color: #00ACAE;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
 }
 
 /* Style the buttons inside the tab */
@@ -178,12 +178,15 @@ a:hover {
                 
                   <h2 class="fs1" style="padding-bottom: 30px;">Our Locations</h2>
 
-                      <div class="tab" style="font-size: 20px; padding-bottom: 30px;">
-                      <button class="tablinks" style="border-radius: 5px;" onclick="openCity(event, 'Mogappair')">Mogappair</button>
-                      <button class="tablinks" style="border-radius: 5px"onclick="openCity(event, 'Chrompet')">Chrompet</button>
-                      <button class="tablinks" style="border-radius: 5px" onclick="openCity(event, 'Thirupathur')">Thirupathur</button>
-                      <button class="tablinks" style="border-radius: 5px"onclick="openCity(event, 'Nellore')">Nellore</button>
-                      <button class="tablinks" style="border-radius: 5px"onclick="openCity(event, 'Colombo')">Colombo</button>
+                    <div class="tab">
+                      <button class="tablinks btn2" onclick="openCity(event, 'Mogappair')">Mogappair</button>
+                      <button class="tablinks btn2"onclick="openCity(event, 'Chrompet')">Chrompet
+                      </button>
+                      <button class="tablinks btn2" onclick="openCity(event, 'Thirupathur')">Thirupathur</button>
+                      <button class="tablinks btn2"onclick="openCity(event, 'Nellore')">Nellore
+                      </button>
+                      <button class="tablinks btn2"onclick="openCity(event, 'Colombo')">Colombo
+                      </button>
                     </div>
 
                         <div style="font-size: 25px" id="Mogappair" class="tabcontent">

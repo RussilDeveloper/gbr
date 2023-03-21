@@ -19,6 +19,14 @@
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
   }
+  .fc{
+   text-align:center;font-size: 30px;
+    padding-bottom: 15px; 
+  }
+  .fc1{
+  text-align:justify;font-size: 24px;font-weight: 600 !important;
+   line-height: 25px; margin-top: 10px;
+  }
 
  
   
@@ -26,8 +34,7 @@
    {.mkk{
     display: flex;
     align-items: center;
-    justify-content: center;   
-      
+    justify-content: center;         
    margin-bottom: 10px;
    font-size: 16px;  
    }
@@ -41,6 +48,12 @@
    .mg{
       margin-left: -50px !important;
    }
+
+.gb1{
+   font-size: 18px !important;
+    margin: 10px 0;
+    line-height: 23px;
+    }
 
     }
     </style>
@@ -137,7 +150,7 @@
                            </div>
                            <p style="text-align:justify;color:#000; font-size: 18px">She is an alumnus of the prestigious Christian Medical College, Vellore, Tamil Nadu, India, one of the best-known medical intuitions in India, where she did her post-graduation in obstetrics & gynecology after completing her bachelors from Government Medical College, Salem, Tamil Nadu.
                            <br><br>
-                           She has over 25 years of experience in infertility management, gynecology & high-risk pregnancies. She is one of the most acclaimed Laparoscopic & Robotic Surgeons in Gynecology & Reproductive Medicine. When she began her carrier, she was considered as the youngest obstetrician & gynecologist in the Chennai city who specialized in fertility treatment and handling high-risk pregnancies.</p>
+                           She has over 25 years of experience in infertility management, gynecology & high-risk pregnancies. She is one of the most acclaimed Laparoscopic & Robotic Surgeons in Gynecology & Reproductive Medicine.Most awarded and passionate doctor.</p>
                         </div>
                      </div>
                      <!--Single Feature Box-->
@@ -155,8 +168,8 @@
             <div class="container">
                <div class="row">
                   <div class="section-title" style="margin-bottom: 10px;">
-                     <h2 style="text-align:center;font-size: 30px; padding-bottom: 15px;" class="clrwhite">The Best Fertility Centre In Chennai</h2>
-                     <p style="text-align:justify;font-size: 21px;font-weight: 600;" class="clrwhite">GBR Fertility Centre and Hospitals bring a ray of hope into the lives of those who are deprived of experiencing the joy of motherhood. We deliver the best fertility treatment in Chennai along with much-needed moral and emotional support throughout the treatment period. Being a successful fertility centre in Chennai, we provide a consistent success rate of over 70% during the past decade. GBR is transformed into the best fertility Centre in Chennai with a vision to "Enable the millions of infertile couples to experience the joy of motherhood". We assure that every childless couple that walks into our fertility centre is important to us and we would walk with them hand in hand in their "pursuit of happiness to be a proud parent". GBR believes in patient care first and we follow the ethical medical practice to give quality fertility treatment at an affordable cost.</p>
+                     <h2 class="clrwhite fc">The Best Fertility Centre In Chennai</h2>
+                     <p class="clrwhite fc1 gb1">GBR Fertility Centre and Hospitals bring a ray of hope into the lives of those who are deprived of experiencing the joy of motherhood. We deliver the best fertility treatment in Chennai along with much-needed moral and emotional support throughout the treatment period. Being a successful fertility centre in Chennai, we provide a consistent success rate of over 70% during the past decade. GBR is transformed into the best fertility Centre in Chennai with a vision to "Enable the millions of infertile couples to experience the joy of motherhood". We assure that every childless couple that walks into our fertility centre is important to us and we would walk with them hand in hand in their "pursuit of happiness to be a proud parent". GBR believes in patient care first and we follow the ethical medical practice to give quality fertility treatment at an affordable cost.</p>
                   </div>
                </div>
             </div>
