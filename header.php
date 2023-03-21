@@ -21,6 +21,31 @@
 <!------ Include the above in your HEAD tag ---------->
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ <meta name="viewport" content="width=device-width, initial-scale=1,">
+
+ <style>
+
+   .call
+   {min-height: 40px;
+    margin-top: 5px;
+    height: 70px;
+    line-height: 70px;
+}
+    
+    @media only screen and (min-width:320px) and (max-width:1024px) {
+      .hide
+      {
+         display: none;
+      }
+      .log{
+         width: 200px !important;
+      }
+
+    }   
+       
+
+ </style>
+
 </head>
 
 <!-- Header Area Start-->
@@ -30,7 +55,7 @@
                <div class="col-md-2 d-flex align-items-center">
                   <div class="logo" style="width:100% !important;">
                      <a href="index.php">
-                        <img src="assets/img/GBR-Fertility-Logo.png" style="width:130px;" alt="">
+                        <img class="log" src="assets/img/GBR-Fertility-Logo.png" style="width:285px;" alt="">
                      </a>
                   </div>
                </div>
@@ -40,41 +65,43 @@
                    <div class="main-menu float-right" style="padding-top:20px;">
                      <nav>
                         <ul>
-                           <li ><a href="#" data-scroll-nav="0">Home</a>
+                           <li ><a href="index.php">Home</a>
                            </li>
-                           <li class="dropdown"><a href="#" data-scroll-nav="1">About Us</a> 
-                              <!-- <ul>
+                          <!--  <li class="dropdown"><a href="#" data-scroll-nav="1">About Us</a> 
+                               <ul>
                                  <li><a href="index.html">Home One</a></li>
                                  <li><a href="index2.html">Home Two</a></li>
                                  <li><a href="index3.html">Home Three</a></li>
                                  <li><a href="index4.html">Apps Landing </a></li>
-                              </ul> -->
-                           </li>
-                           <li><a href="#" data-scroll-nav="2">Our Clinics</a>
-                           </li>
+                              </ul> 
+                           </li> -->
+                          <!--  <li><a href="#" data-scroll-nav="2">Our Clinics</a>
+                           </li> -->
                            
                            <li class="dropdown"><a href="#" data-scroll-nav="1">Our Services</a>
                               <ul>
-                                  <li><a href="primary-services.php" target="_blank">Primary Services</a></li>                                                                              
-                                  <li><a href="additional-services.php" target="_blank">Additional Services</a></li>
+                                  <li><a href="primary-services.php">Primary Services</a></li>                                                                              
+                                  <li><a href="additional-services.php">Additional Services</a></li>
                               </ul>
                            </li>
 
-                           <li><a href="blogs.php" target="_blank">Our Blogs</a></li>                                                    
-                           <li><a href="#" data-scroll-nav="4">Contact Us</a>
+                           <li><a href="blogs.php">Our Blogs</a></li>                                                    
+                           <li><a href="contact-us.php">Contact Us</a>
                            </li>
                         </ul>
                      </nav>
                   </div>
                   <div id="mobile-menu"></div>
                </div>
-               <div class="col-md-4 d-flex align-items-center top-right">
-                  <a href="" class="book-an-btn"> Book appointment</a>
+             <div class="hide col-md-4">
+               <div class="col-md-12 d-flex align-items-center top-right">
+                   <a href="" class="book-an-btn"> Book appointment</a>
                   <div class="call-buton">
-                     <a class="cc-calto-action-ripple" href="tel:9940105555"><i class="fa fa-phone"></i><span class="num"></span></a>
-                     <p> 99401 05555    </p>
+                     <a class="cc-calto-action-ripple call" href="tel:9940105555"><i class="fa fa-phone"></i><span class="num"></span></a>
+                     <p> 99401 05555</p>
                   </div>
                </div>
+             </div>
             </div>
          </div>
       </header> 

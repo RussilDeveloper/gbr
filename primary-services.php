@@ -8,6 +8,7 @@
    <meta http-equiv="x-ua-compatible" content="ie=edge">
    <meta name="author" content="themesholder">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1,">
    <!-- Page Title -->
    <title>GBR</title>
    <!-- Favicon Icon -->
@@ -19,6 +20,22 @@
         width: 100% ;
         color: #ffffff ; background-color: #236e8d; text-align: center;  transition: all 0.5s;
         cursor: pointer;} 
+
+         @media screen and (max-width:768px)
+        {
+         .flex{flex-direction:column;
+            padding: 0px !important;
+            }
+        .mbl{
+            margin-bottom: -30px;
+        }
+         .hd{
+        margin-top: -30px;
+        margin-bottom: -20px;
+      }
+        
+
+        }
     
       
     </style>
@@ -44,7 +61,7 @@
 
          <section class="pd" style="background-color:#0e786b">
             <div class="container-fluid">
-             <div class="row">
+             <div class="row hd">
                <div class="col-md-12">
                 <h1 class="hed">Primary Services</h1>
                </div>
@@ -56,46 +73,46 @@
 
         <section class="sec1">
           
-            <div class="row" style="padding: 70px">
+            <div class="row flex" style="padding: 70px">
                            
-               <div class="col-md-4" style="padding: 50px"> 
+               <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/iui.jpg" alt="">
-                     <a href="http://localhost/gbr/iui.php" target="_blank">
+                     <a href="iui.php">
                      <div class="btn1">Intra Uterine Insemination</div>
                      </a>                                                    
                </div>  
 
-               <div class="col-md-4" style="padding: 50px"> 
+               <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/ivf.jpg" alt="">
-                     <a href="http://localhost/gbr/ivf.php" target="_blank">
+                     <a href="ivf.php">
                      <div class="btn1">In Vitro Fertilisation</div>
                      </a>                                                    
                </div>   
 
-                <div class="col-md-4" style="padding: 50px"> 
+                <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/icsi.jpg" alt="">
-                     <a href="http://localhost/gbr/icsi.php" target="_blank">
+                     <a href="icsi.php">
                      <div class="btn1">Intracytoplasmic Sperm Injection</div>
                      </a>                                                    
                </div>  
 
                <div class="col-md-2"></div>
 
-               <div class="col-md-4" style="padding: 50px"> 
+               <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/laparoscopy.jpg" alt="">
-                     <a href="http://localhost/gbr/laparoscopy.php" target="_blank">
+                     <a href="laparoscopy.php">
                      <div class="btn1">Laparoscopy</div>
                      </a>                                                    
                </div>   
 
-               <div class="col-md-4" style="padding: 50px"> 
+               <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/hysteroscopy.jpg" alt="">
-                     <a href="http://localhost/gbr/hysteroscopy.php" target="_blank">
+                     <a href="hysteroscopy.php">
                      <div class="btn1">Hysteroscopy</div>
                      </a>                                                    
                </div>   
@@ -114,7 +131,7 @@
            
 
                
-                <div class="col-md-4 p-0" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
+                <div class="col-md-4 p-0 mbl" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
                        <?php include ('admin/front-end/book-test.php'); ?>
                 </div>                                                                                                       
             </div>

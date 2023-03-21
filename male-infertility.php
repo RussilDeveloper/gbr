@@ -7,6 +7,7 @@
    <meta http-equiv="x-ua-compatible" content="ie=edge">
    <meta name="author" content="themesholder">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1,">
    <!-- Page Title -->
    <title>GBR</title>
    <!-- Favicon Icon -->
@@ -32,6 +33,14 @@
           
           .blg2{font-size: 23px; text-align: justify; list-style-type: disc; padding-left: 30px; 
            padding-top: 20px; line-height: 35px;} 
+
+           
+            @media screen and (max-width: 800px)
+        {
+         .flex{flex-direction:column;
+         }
+     }
+          
     </style>
 </head>
 
@@ -68,10 +77,9 @@
        <section class="sec1">
         
           
-            <div class="row" style="padding: 80px">
-               
-                           
-               <div class="col-md-12" style="padding: 80px"> 
+             <div class="container">      
+                 <div class="row" style="padding-top: 50px; padding-bottom: 50px;">   
+               <div class="col-md-12" style="padding-top:100px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/male-infertility.jpg" alt="">
                    <div class="container">

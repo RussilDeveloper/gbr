@@ -8,6 +8,7 @@
    <meta http-equiv="x-ua-compatible" content="ie=edge">
    <meta name="author" content="themesholder">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <meta name="viewport" content="width=device-width, initial-scale=1,">
    <!-- Page Title -->
    <title>GBR</title>
    <!-- Favicon Icon -->
@@ -28,6 +29,17 @@
          .txt1{color: #000; font-size: 20px;font-weight: 400; text-align: justify;}
          .hed{color:#ffffff; font-size: 45px; font-weight: normal ;text-align: center;}
           .vd{box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px; border-radius: 10px}
+          
+          @media screen and (max-width: 800px)
+        {
+         .flex{flex-direction:column;
+         }
+          .hd{
+        margin-top: -30px;
+        margin-bottom: -20px;
+      }
+
+        }
     </style>
 </head>
 
@@ -51,7 +63,7 @@
 
           <section class="pd" style="background-color:#0e786b">
             <div class="container-fluid">
-             <div class="row">
+             <div class="row hd">
                <div class="col-md-12">
                 <h1 class="hed">Computer Assisted Semen Analysis</h1>
                </div>
@@ -63,7 +75,7 @@
 
         <section class="sec1">
           <div class="container">
-            <div class="row" style="padding: 70px">
+             <div class="row" style="padding-top: 50px; padding-bottom: 50px;">
                 <div class="col-md-1"></div>
                 <div class="col-md-10">
                   <iframe class="vd" width="100%" height="450" src="https://www.youtube.com/embed/8AfPgr8HeVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

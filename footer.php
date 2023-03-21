@@ -1,48 +1,87 @@
+<style>
+  .fs{
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 20px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+    @media only screen and (min-width:320px) and (max-width:1024px)     
+   {.mkk{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+      
+   margin-bottom: 10px;
+   font-size: 16px;  
+
+   }
+
+
+
+    }
+
+</style>
+
 <footer class="home-3">
          <div class="container">
             <div class="row">
  
-               <div class="row">
+               <div class="row ">
                   <div class="col-md-8 offset-md-2">
                      
                      <div class="row">
                         <div class="col-md-12 col-sm-12 text-center f-logo">
                            <img src="assets/img/GBR-Fertility-Logo.png" class="img-fluid" alt="">
-                           <p>GBR Fertility Centre And Hospitals journey started in the year 2005, as a centre 100% dedicated to fertility care with a vision to enable the millions of infertile women to experience the joy of motherhood.</p>
+                           <p style="padding: 15px; text-align:center;">GBR Fertility Centre And Hospitals journey started in the year 2005, as a centre 100% dedicated to fertility care with a vision to enable the millions of infertile women to experience the joy of motherhood.</p>
                         </div> 
 
                         <div class="address">
                            <h5>Address</h5>
-                           <p> <b> GBR FERTILITY CENTRE AND HOSPITALS HIG </b> <br> 1027 & 1028 6th Main Road, Mogappair Eri Scheme Mogappair West, Chennai, TN, India 600037</p>
-                           <div class="icons-span">
-                              <div class="icon-inner">
+                          <p style="padding: 10px; text-align:center;"><b> GBR FERTILITY CENTRE AND HOSPITALS
+                           </b> <br> 1027 & 1028 6th Main Road, Mogappair Eri Scheme Mogappair West, Chennai, TN, India 600037.</p>
+                           <div>
+                              <!-- <div class= "icon-inner" style="display: block; text-align:center;">
                                  <i class="fa fa-phone-square" aria-hidden="true"></i>
                                  <a href="tel:+91 9940105555">+91 99401 05555</a>
-                              </div>
+                              </div> -->
+                              <ul style="display: block">
+                              <li class="mkk" style="text-align:center; color:#ffffff"><i class="fs fa-phone-square" aria-hidden="true"></i> <a style="color:#ffffff; padding-left:
+                               6px;font-size: 18px;" href="tel:+91 9940105555">+91 99401 05555</a> </li>
+
+                               <li class="mkk" style="text-align:center; color:#ffffff"><i class="fs fa-envelope" aria-hidden="true"></i> <a style="color: #ffffff; padding-left:
+                               6px; font-size: 18px;" href="tel:+91 9940105555">contact@gbrclinic.com</a> </li>
+
+
                               <!-- <div class="icon-inner">
                                  <i class="fa fa-calendar-check-o" aria-hidden="true"></i>
                                  <a href="tel:+91 9940105555">24 x 7</a>
                               </div> -->
-                              <div class="icon-inner">
+                              <!-- <div class="icon-inner">
                                  <i class="fa fa-envelope" aria-hidden="true"></i>
                                  <a href="tel:+91 9940105555">contact@gbrclinic.com</a>
-                              </div>
+                              </div> -->
 
                            </div>
                         </div>
                         <div class="f-social">
                            <ul>
-                              <li> <a href=""> <i class="fa fa-facebook-square" aria-hidden="true"></i> </a> </li>
-                              <li> <a href=""> <i class="fa fa-instagram" aria-hidden="true"></i> </a> </li>
-                              <li> <a href=""> <i class="fa fa-twitter" aria-hidden="true"></i> </a> </li>
-                              <li> <a href=""> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a> </li>
-                              <li> <a href=""> <i class="fa fa-linkedin-square" aria-hidden="true"></i> </a> </li>
+                              <li> <a href="https://www.facebook.com/gbrfertilitycentre" target="_blank"> <i class="fa fa-facebook-square" aria-hidden="true"></i> </a> </li>
+
+                              <li> <a href="https://www.instagram.com/gbrfertilitycentre/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> </a> </li>
+
+                              <li> <a href="https://twitter.com/GBRFertility" target="_blank"> <i class="fa fa-twitter" aria-hidden="true"></i> </a> </li>
+
+                              <li> <a href="https://www.youtube.com/@gbrfertilitycentre" target="_blank"> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a> </li>
+
+                              <li> <a href="https://www.linkedin.com/company/gbrfertilitycentre" target="_blank"> <i class="fa fa-linkedin-square" aria-hidden="true"></i> </a> </li>
+
                            </ul>
                         </div>
 
                      </div>
 
-                     <div class="f-menu">
+                    <!--  <div class="f-menu">
                         <ul>
                            <li> <a href="">Home</a> </li>
                            <li> <a href="">About us</a> </li>
@@ -51,7 +90,7 @@
                            <li> <a href="">Blog</a> </li>
                            <li> <a href="">Contact us</a> </li>
                         </ul>
-                     </div>
+                     </div> -->
 
                      <div class="footer-bottom">
                         <!-- <div class="footer-logo">

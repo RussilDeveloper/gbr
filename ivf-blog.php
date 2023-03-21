@@ -8,6 +8,7 @@ s
    <meta http-equiv="x-ua-compatible" content="ie=edge">
    <meta name="author" content="themesholder">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <meta name="viewport" content="width=device-width, initial-scale=1,">
    <!-- Page Title -->
    <title>GBR</title>
    <!-- Favicon Icon -->
@@ -33,6 +34,13 @@ s
           
           .blg2{font-size: 23px; text-align: justify; list-style-type: disc; padding-left: 30px; 
            padding-top: 20px; padding-bottom: 20px; line-height: 35px;} 
+
+            @media screen and (max-width: 800px)
+        {
+         .flex{flex-direction:column;
+         }
+     }
+        
     </style>
 </head>
 
@@ -69,15 +77,14 @@ s
        <section class="sec1">
         
           
-            <div class="row" style="padding:80px">
-               
-                           
-               <div class="col-md-12" style="padding: 80px"> 
+           <div class="container">      
+                 <div class="row" style="padding-top: 50px; padding-bottom: 50px;">   
+               <div class="col-md-12" style="padding-top: 100px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/gbr-ivf1.jpg" alt=""></div>
                      <div class="container">
                     
-                        <h1>What is IVF?</h1>
+                        <h1 style="padding-top:50px;">What is IVF?</h1>
                       
                         <p class="blg">We all know what IVF is, it (test tube baby) has become a very common name around. IVF is one type of assisted reproductive technology (ART), where fertilization happens in a lab. Fertilized embryos are put back directly into the Uterus. The eggs and sperms are extracted from the couple and they are mixed in a lab under a very advanced environment to make the fertilization happen naturally. IVF is considered to be one of the more advanced and effective processes among the other assisted reproductive technologies.</p>
                           
@@ -93,7 +100,7 @@ s
 
                         
 
-                        <h3>Can I have my laparoscopy or hysteroscopy?</h3>
+                        <h3 style="text-align: justify;">Can I have my laparoscopy or hysteroscopy?</h3>
                         <ul class="blg2">
                             <li>It is a part of lab procedure in IVF for patients with previous failure or advanced age or severe male factor where sperms are extracted through surgical methods like TESE or testicular biopsy. This procedure gives more good quality embryos and success in those when we compare to IVF.</li>
                             <li>Advancing age: - Aging can reduce the chances of fertilization in a woman. IVF helps fertilization possible for women who have crossed 40 years and wish to have a baby.</li>

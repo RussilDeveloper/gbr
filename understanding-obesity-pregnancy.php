@@ -7,6 +7,7 @@
    <meta http-equiv="x-ua-compatible" content="ie=edge">
    <meta name="author" content="themesholder">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <meta name="viewport" content="width=device-width, initial-scale=1,">
    <!-- Page Title -->
    <title>GBR</title>
    <!-- Favicon Icon -->
@@ -31,7 +32,14 @@
             line-height: 35px;}
           
           .blg2{font-size: 23px; text-align: justify; list-style-type: disc; padding-left: 30px; 
-           padding-top: 20px; line-height: 35px;} 
+           padding-top: 20px; line-height: 35px;}  
+
+            @media screen and (max-width: 800px)
+        {
+         .flex{flex-direction:column;
+         }
+        
+        } 
     </style>
 </head>
 
@@ -68,12 +76,11 @@
        <section class="sec1">
         
           
-            <div class="row" style="padding: 70px">
-               
-                           
-               <div class="col-md-12" style="padding: 80px"> 
+            <div class="container">      
+                 <div class="row" style="padding-top: 50px; padding-bottom: 50px;">   
+               <div class="col-md-12" style="padding-top: 100px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
-                     src="assets/img/Understanding-Obesity-Pregnancy.jpg" alt="">
+                     src="assets/img/Understanding-Obesity-Pregnancy.png" alt="">
                       <div class="container">
                         
                         <h1 style="padding-top: 80px">Understanding Obesity - Pregnancy</h1>

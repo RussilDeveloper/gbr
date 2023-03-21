@@ -8,6 +8,7 @@
    <meta http-equiv="x-ua-compatible" content="ie=edge">
    <meta name="author" content="themesholder">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <meta name="viewport" content="width=device-width, initial-scale=1,">
    <!-- Page Title -->
    <title>GBR</title>
    <!-- Favicon Icon -->
@@ -22,9 +23,27 @@
 
      .button1:hover {
       background-color: #4CAF50;
-      color: white;
-    
-      
+      color: white;}
+
+       @media screen and (max-width: 800px)
+        {
+         .flex{flex-direction:column;
+         }
+         .hd{
+        margin-top: -30px;
+        margin-bottom: -20px;
+      }           
+        
+        .mbl{
+            margin-bottom: -30px;
+        }
+        .mbl2{margin-bottom: -20px;
+        }
+
+
+        }
+     
+
     </style>
 </head>
 
@@ -48,7 +67,7 @@
 
          <section class="pd" style="background-color:#0e786b">
             <div class="container-fluid">
-             <div class="row">
+             <div class="row hd">
                <div class="col-md-12">
                 <h1 class="hed">Our Blogs</h1>
                </div>
@@ -60,69 +79,69 @@
 
         <section class="sec1">
           
-            <div class="row" style="padding: 70px">
+             <div class="row ">
                            
-               <div class="col-md-4" style="padding: 50px"> 
+               <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Hydrosalpinx.jpg" alt="">
-                     <a href="hydrosalpinx.php" target="_blank">
-                        <h5 style="padding-top:10px">What is Hydrosalpinx and why is it a concern?</h5>
+                     <a href="hydrosalpinx.php">
+                        <h5 style="padding-top:20px;">What is Hydrosalpinx and why is it a concern?</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>  
 
-               <div class="col-md-4" style="padding: 50px"> 
+               <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/gbr-ivf1.jpg" alt="">
-                     <a href="ivf-blog.php" target="_blank">
-                     <h5 style="padding-top:20px; padding-bottom: 20px;">What is IVF?</h5>
+                     <a href="ivf-blog.php">
+                     <h5 style="padding-top:20px;">What is IVF?</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>   
 
-                <div class="col-md-4" style="padding: 50px"> 
+                <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/corono-virus.jpg" alt="">                   
-                     <a href="fertility-pregancy-and-coronavirus.php" target="_blank">
-                    <h5 style="padding-top:20px; padding-bottom: 20px;">Pregnancy And Coronavirus</h5>
+                     <a href="fertility-pregancy-and-coronavirus.php">
+                    <h5 style="padding-top:20px;">Pregnancy And Coronavirus</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>  
 
               
 
-               <div class="col-md-4" style="padding: 50px"> 
+               <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/male-infertility.jpg" alt="">
-                     <a href="male-infertility.php" target="_blank">
-                       <h5 style="padding-top:20px; padding-bottom: 20px;">What is Male Infertility?</h5>
+                     <a href="male-infertility.php">
+                       <h5 class="mbl2" style="padding-top:20px; padding-bottom: 20px;">What is Male Infertility?</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>   
 
-               <div class="col-md-4" style="padding: 50px"> 
+               <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Fertility.png" alt="">                   
-                     <a href="know-about-fertility.php" target="_blank">
+                     <a href="know-about-fertility.php">
                        <h5 style="padding-top:20px;">Know about Fertility - 7 Things Men should look out for</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>  
 
-                <div class="col-md-4" style="padding: 50px"> 
+                <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Understanding-Obesity-Pregnancy.png" alt="">
-                     <a href="understanding-obesity-pregnancy.php" target="_blank">
-                          <h5 style="padding-top:20px; padding-bottom: 20px;">Understanding Obesity Pregnancy</h5>
+                     <a href="understanding-obesity-pregnancy.php">
+                          <h5 class="mbl2" style="padding-top:20px; padding-bottom: 20px;">Understanding Obesity Pregnancy</h5>
                          <div class="btn1 button1">Read More</div>
 
                      </a>                                                    
                </div>    
 
-                 <div class="col-md-4" style="padding: 50px"> 
+                 <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Post-Pregnancy-care.png" alt="">
-                     <a href="postpartum-care.php" target="_blank">
+                     <a href="postpartum-care.php">
                         <h5 style="padding-top:20px">Post Pregnancy Care Tips</h5>
                          <div class="btn1 button1">Read More</div>
                      </a>                                                    

@@ -8,6 +8,7 @@ s
    <meta http-equiv="x-ua-compatible" content="ie=edge">
    <meta name="author" content="themesholder">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1,">
    <!-- Page Title -->
    <title>GBR</title>
    <!-- Favicon Icon -->
@@ -32,7 +33,15 @@ s
             line-height: 35px;}
           
           .blg2{font-size: 23px; text-align: justify; list-style-type: disc; padding-left: 30px; 
-           padding-top: 20px; padding-bottom: 20px; line-height: 35px;} 
+           padding-top: 20px; padding-bottom: 20px; line-height: 35px;}
+
+
+            @media screen and (max-width: 800px)
+        {
+         .flex{flex-direction:column;
+         }
+        
+        }  
     </style>
 </head>
 
@@ -69,15 +78,14 @@ s
        <section class="sec1">
         
           
-            <div class="row" style="padding:80px">
-               
-                           
-               <div class="col-md-12" style="padding: 80px"> 
+            <div class="container">      
+                 <div class="row" style="padding-top: 50px; padding-bottom: 50px;">   
+               <div class="col-md-12" style="padding-top: 100px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Fertility.jpg" alt=""></div>
                      <div class="container">
                     
-                        <h1>Know about Fertility - 7 Things Men should look out for</h1>
+                       <h1 style="padding-top:50px;">Know about Fertility - 7 Things Men should look out for</h1>
                       
                         <p class="blg">Conception and Pregnancy is always focused on women by society and media. Most people would assume that conception is all about women as the pregnancy occurs to them. But it's wrong as it takes two to make a baby and male fertility is just as important. Here are the seven things every man should know and care for: Your daily lifestyle can affect your fertility When it comes male fertility health habits matter. Look out for the following habits: Smoking: Smoking negatively impacts sperm count, shape and movement, which are the important factors for conception. Smoking is also linked to erectile dysfunction, so stopping the habit may reverse their negative effects. Workplace Atmosphere: Is your job consisting of close communication with toxic chemicals? If so, you may be at higher risk for infertility and reduced sperm health. People like farmers, welders, painters, metal workers, and varnishers have all been found to be at risk for decreased fertility. If your job includes communicable toxic chemicals or high temperature conditions, consult a doctor. STDs/STIs: Sexually transmitted diseases or infections can lead to infertility if not treated quickly. An infection can lead to scar tissue within the male reproductive area, making semen transfer futile or even difficult. If you have any signs of an STI, see a doctor right away, and if you're at risk of consuming an STI, get consistent check-ups even if you are not having any indication. You may unintentionally pass on an STI to your female partner, which can then harm her fertility. Weight: Being over or underweight can affect your semen health. Men are found to have lower sperm concentration and sperm counts if they have a BMI below 20, also obese men will have lower levels of testosterone and sperm counts. Alcohol Consumption: Too much of alcoholic drinks will lower the sperm counts. While few drinks does not cause any harm however excessive drinking will lower sperm movements and shape. Men have age factors too. By now you may already know that female fertility drops with age. Though not as drastically as in women even Male fertility is also impacted by age. A woman of age 70 years cannot conceive naturally, yet some old men at the age of 70 are still capable of having a child naturally. However, age is still something you should think through when planning a family. Male fertility and sperm health decreases with increased age. Male age also increases the risk of miscarriage, genetic problems, and also some birth defects. Heat troubles your sperm Male fertility can be affected as high temperatures are bad for sperm. Boxers/Briefs being less restrictive and having more air flow leads to cooler testicular temperatures providing healthy fertility levels. Other sources are: long hot baths or hot tub Sitting for lengthy periods of time Looking into a laptop on your lap Very Hot Car Seats Male Infertility is more common About half of all infertile couples, male infertility is involved in it. Men should see an urologist or fertility specialist for the semen analysis which involves a non-invasive examination of semen and sperm health. Male infertility is not always symptomless Male infertility is not noticeable most of the time. Being unable to conceive is the initial sign for infertility in men. There are some signs and risk factors to watch for, see an urologist before you try to conceive. If you have some of the symptoms like: an undescended testicle having trouble or maintaining an erection having low sex drive got treated for STD/STI in the past pain, swelling, or a lump in the testicular region Delayed testing and treatment can decrease your odds for pregnancy success In spite of the recommendations to seek for help after one year of trying couples have number of reasons including worry about fertility testing, anxieties about the cost of treatments, and mix-ups like thinking all infertility has noticeable symptoms and causes, or being intellectual that once had a child, you can't be infertile. Hereâ€™s how it is: Infertility worsens with time. So get evaluated sooner for better chances of pregnancy success. And also worrying about the cost is not needed as most of the infertile treatments can be treated at an affordable cost. Sperm tests at home aren't good enough. In the hopes of the internet, taking an unknown test due to nervousness will not rule out the male infertility. Testing done in a lab can ensure a fully evaluated sperm analysis which includes sperm count, shape, and movements increasing the chances of conception. If you're worried about your fertility, see an Andrologist at GBR Fertility Centre & Hospitals to treat the complications associated with male reproductive system and urological problems.<br><b> Dr. G Buvaneswari, MBBS, DGO, DNB (OG), Dip. ALS (Germany), AMRCOG (UK),<br> Medical Director - GBR Fertility Centre & Hospitals.</b></p>
                           

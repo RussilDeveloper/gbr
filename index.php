@@ -11,6 +11,39 @@
    <!-- Page Title -->
    <title>GBR</title>
    <!-- Favicon Icon -->
+
+   <style>
+  .fs{
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 20px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+  }
+
+ 
+  
+    @media screen and (max-width: 800px)     
+   {.mkk{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+      
+   margin-bottom: 10px;
+   font-size: 16px;  
+   }
+  
+   .whch
+   {
+/*      margin-left: 25px;*/
+      padding-left: 82px !important;
+    padding-right: 70px !important;
+   }
+   .mg{
+      margin-left: -50px !important;
+   }
+
+    }
+    </style>
     
 </head>
 
@@ -48,13 +81,13 @@
                        </ol>
                        <div class="carousel-inner">
                          <div class="carousel-item active">
-                           <img class="d-block w-100" src="assets/img/GBR-Web.png" alt="First slide">
+                           <img class="d-block w-100" src="assets/img/web-banner 1.png" alt="First slide">
                          </div>
                          <div class="carousel-item">
-                           <img class="d-block w-100" src="assets/img/GBR-Web1.png" alt="Second slide">
+                           <img class="d-block w-100" src="assets/img/web-banner 2.png" alt="Second slide">
                          </div>
                          <div class="carousel-item">
-                           <img class="d-block w-100" src="assets/img/GBR-Web.png" alt="Third slide">
+                           <img class="d-block w-100" src="assets/img/GBR Banner 3.png" alt="Third slide">
                          </div>
                        </div>
                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -102,7 +135,7 @@
                               <!-- <h3 style="text-align:left;" class="clrwhite">Expertise In Treating Infertility Conditions</h3> -->
                               <h2 style="text-align:left;font-size: 30px;">Best Doctor for Fertility Treatment in Chennai</h2>
                            </div>
-                           <p style="text-align:justify;color:#000">She is an alumnus of the prestigious Christian Medical College, Vellore, Tamil Nadu, India, one of the best-known medical intuitions in India, where she did her post-graduation in obstetrics & gynecology after completing her bachelors from Government Medical College, Salem, Tamil Nadu.
+                           <p style="text-align:justify;color:#000; font-size: 18px">She is an alumnus of the prestigious Christian Medical College, Vellore, Tamil Nadu, India, one of the best-known medical intuitions in India, where she did her post-graduation in obstetrics & gynecology after completing her bachelors from Government Medical College, Salem, Tamil Nadu.
                            <br><br>
                            She has over 25 years of experience in infertility management, gynecology & high-risk pregnancies. She is one of the most acclaimed Laparoscopic & Robotic Surgeons in Gynecology & Reproductive Medicine. When she began her carrier, she was considered as the youngest obstetrician & gynecologist in the Chennai city who specialized in fertility treatment and handling high-risk pregnancies.</p>
                         </div>
@@ -121,9 +154,9 @@
          <div class="inner-header flex">
             <div class="container">
                <div class="row">
-                  <div class="section-title" style="margin-bottom: 20px;">
-                     <h2 style="text-align:center;font-size: 30px;" class="clrwhite">The Best Fertility Centre In Chennai</h2>
-                     <p style="text-align:center;font-size: 19px;font-weight: 600;" class="clrwhite">GBR Fertility Centre and Hospitals bring a ray of hope into the lives of those who are deprived of experiencing the joy of motherhood. We deliver the best fertility treatment in Chennai along with much-needed moral and emotional support throughout the treatment period. Being a successful fertility centre in Chennai, we provide a consistent success rate of over 70% during the past decade. GBR is transformed into the best fertility Centre in Chennai with a vision to "Enable the millions of infertile couples to experience the joy of motherhood". We assure that every childless couple that walks into our fertility centre is important to us and we would walk with them hand in hand in their "pursuit of happiness to be a proud parent". GBR believes in patient care first and we follow the ethical medical practice to give quality fertility treatment at an affordable cost.</p>
+                  <div class="section-title" style="margin-bottom: 10px;">
+                     <h2 style="text-align:center;font-size: 30px; padding-bottom: 15px;" class="clrwhite">The Best Fertility Centre In Chennai</h2>
+                     <p style="text-align:justify;font-size: 21px;font-weight: 600;" class="clrwhite">GBR Fertility Centre and Hospitals bring a ray of hope into the lives of those who are deprived of experiencing the joy of motherhood. We deliver the best fertility treatment in Chennai along with much-needed moral and emotional support throughout the treatment period. Being a successful fertility centre in Chennai, we provide a consistent success rate of over 70% during the past decade. GBR is transformed into the best fertility Centre in Chennai with a vision to "Enable the millions of infertile couples to experience the joy of motherhood". We assure that every childless couple that walks into our fertility centre is important to us and we would walk with them hand in hand in their "pursuit of happiness to be a proud parent". GBR believes in patient care first and we follow the ethical medical practice to give quality fertility treatment at an affordable cost.</p>
                   </div>
                </div>
             </div>
@@ -388,33 +421,34 @@
                <div class="row">
                   <div class="col-lg-12">
                      <div class="section-title" style="margin-bottom: 20px;">
-                        <h2 style="text-align:center;font-size: 30px;" class="clrwhite">Why Choose GBR</h2>
-
+                        <h2 style="text-align:center;font-size: 30px;" class="clrwhite mg">Why Choose GBR</h2>
+                    
                         <div class="why-boxes-all">
-                           <div class="why-box">
+                           <div class="why-box whch">                          
                               <img src="assets/img/ovum.png">
-                              <p>100 % Dedicated to Fertility Care</p>
+                              <p>100 % Dedicated to Fertility Care</p>                         
                            </div>
-                           <div class="why-box">
+                           <div class="why-box whch">
                               <img src="assets/img/ovum2-01.png">
                               <p>Personalised Infertility Care</p>
                            </div>
-                            <div class="why-box">
+                            <div class="why-box whch">
                               <img src="assets/img/ovum3-01.png">
                               <p>High IVF Success Rate</p>
-                           </div>
+                            </div>
                         </div>
-                        <div class="why-boxes-all-bottom">
-                           <div class="why-box">
+
+                        <div class="why-box-all-bottom" style="display: block;">
+                           <div class="why-box whch">
                               <img src="assets/img/ovum4-01.png">
                               <p>State of Art Facility</p>
                            </div>
-                           <div class="why-box">
+                           <div class="why-box whch">
                               <img src="assets/img/ovum5-01.png">
                               <p>Patient Safety & Confidentiality</p>
                            </div>  
                         </div>
-                        
+                    
                      </div>
                   </div>
                </div>
@@ -450,47 +484,60 @@
          <div class="container">
             <div class="row">
  
-               <div class="row">
+               <div class="row ">
                   <div class="col-md-8 offset-md-2">
                      
                      <div class="row">
                         <div class="col-md-12 col-sm-12 text-center f-logo">
-                           <img src="assets/img/GBR_logo.png" class="img-fluid" alt="">
-                           <p>GBR Fertility Centre And Hospitals journey started in the year 2005, as a centre 100% dedicated to fertility care with a vision to enable the millions of infertile women to experience the joy of motherhood.</p>
+                           <img src="assets/img/GBR-Fertility-Logo.png" class="img-fluid" alt="">
+                           <p style="padding: 15px; text-align:center;">GBR Fertility Centre And Hospitals journey started in the year 2005, as a centre 100% dedicated to fertility care with a vision to enable the millions of infertile women to experience the joy of motherhood.</p>
                         </div> 
 
                         <div class="address">
                            <h5>Address</h5>
-                           <p> <b> GBR FERTILITY CENTRE AND HOSPITALS HIG </b> <br> 1027 & 1028 6th Main Road, Mogappair Eri Scheme Mogappair West, Chennai, TN, India 600037</p>
-                           <div class="icons-span">
-                              <div class="icon-inner">
+                          <p style="padding: 10px; text-align:center;"><b> GBR FERTILITY CENTRE AND HOSPITALS  </b> <br> 1027 & 1028 6th Main Road, Mogappair Eri Scheme Mogappair West, Chennai, TN, India 600037.</p>
+                           <div>
+                              <!-- <div class= "icon-inner" style="display: block; text-align:center;">
                                  <i class="fa fa-phone-square" aria-hidden="true"></i>
                                  <a href="tel:+91 9940105555">+91 99401 05555</a>
-                              </div>
+                              </div> -->
+                              <ul style="display: block">
+                              <li class="mkk" style="text-align:center; color:#ffffff"><i class="fs fa-phone-square" aria-hidden="true"></i> <a style="color:#ffffff; padding-left:
+                               6px;font-size: 18px;" href="tel:+91 9940105555">+91 99401 05555</a> </li>
+
+                               <li class="mkk" style="text-align:center; color:#ffffff"><i class="fs fa-envelope" aria-hidden="true"></i> <a style="color: #ffffff; padding-left:
+                               6px; font-size: 18px;" href="tel:+91 9940105555">contact@gbrclinic.com</a> </li>
+
+
                               <!-- <div class="icon-inner">
                                  <i class="fa fa-calendar-check-o" aria-hidden="true"></i>
                                  <a href="tel:+91 9940105555">24 x 7</a>
                               </div> -->
-                              <div class="icon-inner">
+                              <!-- <div class="icon-inner">
                                  <i class="fa fa-envelope" aria-hidden="true"></i>
                                  <a href="tel:+91 9940105555">contact@gbrclinic.com</a>
-                              </div>
+                              </div> -->
 
                            </div>
                         </div>
                         <div class="f-social">
                            <ul>
-                              <li> <a href=""> <i class="fa fa-facebook-square" aria-hidden="true"></i> </a> </li>
-                              <li> <a href=""> <i class="fa fa-instagram" aria-hidden="true"></i> </a> </li>
-                              <li> <a href=""> <i class="fa fa-twitter" aria-hidden="true"></i> </a> </li>
-                              <li> <a href=""> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a> </li>
-                              <li> <a href=""> <i class="fa fa-linkedin-square" aria-hidden="true"></i> </a> </li>
+                              <li> <a href="https://www.facebook.com/gbrfertilitycentre" target="_blank"> <i class="fa fa-facebook-square" aria-hidden="true"></i> </a> </li>
+
+                              <li> <a href="https://www.instagram.com/gbrfertilitycentre/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> </a> </li>
+
+                              <li> <a href="https://twitter.com/GBRFertility" target="_blank"> <i class="fa fa-twitter" aria-hidden="true"></i> </a> </li>
+
+                              <li> <a href="https://www.youtube.com/@gbrfertilitycentre" target="_blank"> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a> </li>
+
+                              <li> <a href="https://www.linkedin.com/company/gbrfertilitycentre" target="_blank"> <i class="fa fa-linkedin-square" aria-hidden="true"></i> </a> </li>
+
                            </ul>
                         </div>
 
                      </div>
 
-                     <div class="f-menu">
+                    <!--  <div class="f-menu">
                         <ul>
                            <li> <a href="">Home</a> </li>
                            <li> <a href="">About us</a> </li>
@@ -499,7 +546,7 @@
                            <li> <a href="">Blog</a> </li>
                            <li> <a href="">Contact us</a> </li>
                         </ul>
-                     </div>
+                     </div> -->
 
                      <div class="footer-bottom">
                         <!-- <div class="footer-logo">
@@ -517,6 +564,8 @@
             <a href="#" class="scrollup"><i class="fa fa-angle-double-up"></i></a>
          </div>
       </footer>
+
+
       <!-- Footer Area End!-->
 
    </div><!-- /End Main Site -->
