@@ -24,7 +24,7 @@
         .wh {padding-left: 20px} 
          .sec1{background-color:#D1F0F1; padding-bottom:60px;}
          .bk{margin-top: 50px;}
-         .fs{margin-bottom:20px; font-weight: 700; padding-top: 20px;}
+          .fs{margin-bottom:20px; font-weight: 700; padding-top: 20px; font-size: 30px !important;}
          .fs1{padding-bottom:15px; font-weight: 700;}
          .txt1{color: #000; font-size: 20px;font-weight: 400; text-align: justify;}
          .hed{color:#ffffff; font-size: 45px; font-weight: normal ;text-align: center;}

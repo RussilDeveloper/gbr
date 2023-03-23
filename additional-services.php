@@ -108,7 +108,7 @@
 
                <div class="col-md-3 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
-                     src="assets/img/tr.jpg" alt="">
+                     src="assets/img/Myomectomy.png" alt="">
                      <a href="myomectomy.php" target="_blank">
                      <div class="btn1">Myomectomy</div>
                      </a>                                                    
@@ -232,7 +232,7 @@
 
                
                 <div class="col-md-4 p-0 " style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
-                       <?php include ('admin/front-end/book-test.php'); ?>
+                       <?php include ('admin/front-end/book-test.php'); ?><br><br>
                 </div>                                                                                                       
             </div>
              

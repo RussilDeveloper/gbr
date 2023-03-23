@@ -150,7 +150,7 @@
                            </div>
                            <p style="text-align:justify;color:#000; font-size: 18px">She is an alumnus of the prestigious Christian Medical College, Vellore, Tamil Nadu, India, one of the best-known medical intuitions in India, where she did her post-graduation in obstetrics & gynecology after completing her bachelors from Government Medical College, Salem, Tamil Nadu.
                            <br><br>
-                           She has over 25 years of experience in infertility management, gynecology & high-risk pregnancies. She is one of the most acclaimed Laparoscopic & Robotic Surgeons in Gynecology & Reproductive Medicine.Most awarded and passionate doctor.</p>
+                           She has over 25 years of experience in infertility management, gynecology, and high-risk pregnancies. She is one of the most awarded and passionate doctors and one of the most acclaimed Laparoscopic & Robotic Surgeons in Gynecology & Reproductive Medicine.</p>
                         </div>
                      </div>
                      <!--Single Feature Box-->

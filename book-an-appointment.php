@@ -26,9 +26,9 @@
  <style>
 
    .call-buton p {
-    margin-left: 16px;
+    margin-left: 30px;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 23px;
     margin-top: 20px;
     color: #000;
  }
@@ -49,7 +49,7 @@
 
 .navbar a {
   float: left;
-  font-size: 16px;
+  font-size: 18px;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -62,7 +62,7 @@
 }*/
 
 .dropdown .dropbtn {
-  font-size: 12px !important; 
+  font-size: 20px !important; 
   font-weight: 700 !important; 
   border: none;
   outline: none;
@@ -111,7 +111,7 @@
   width: 33.33%;
   padding: 10px;
   background-color: #dfebeb;
-  font-size: 16px;
+  font-size: 20px;
 /*  height: 250px;*/
 }
 
@@ -138,7 +138,7 @@
   clear: both;
 }
 .hom{
-   font-size:12px !important;
+   font-size:20px !important;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
@@ -175,73 +175,73 @@
                                  
                            </li>
                            <li>
-                            <div class="dropdown">
-                               <button class="dropbtn">Core Specialities 
-                                 <i class="fa fa-caret-down"></i>
-                               </button>
-                               <div class="dropdown-content">
-                                  
-                                 <div class="row">
-                                   <div class="column">
-                                    
-                                     <a class="hom" href="iui.php">Intra Uterine Insemination (IUI)</a>
-                                      <a class="hom" href="laparoscopy.php">Laparoscopy</a>
-                                    
-                                   </div>
-                                   <div class="column">        
-                                   <a class="hom" href="ivf.php">In Vitro Fertilisation (IVF)</a> 
-                                     <a class="hom" href="hysteroscopy.php">Hysteroscopy</a>        
-                                   </div>
+                           <div class="dropdown">
+    <button class="dropbtn">Core Specialities 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+       
+      <div class="row">
+        <div class="column">
+         
+          <a class="hom" href="iui.php">Intra Uterine Insemination (IUI)</a>
+           <a class="hom" href="laparoscopy.php">Laparoscopy</a>
+         
+        </div>
+        <div class="column">        
+        <a class="hom" href="ivf.php">In Vitro Fertilisation (IVF)</a> 
+          <a class="hom" href="hysteroscopy.php">Hysteroscopy</a>        
+        </div>
 
-                                   <div class="column">         
-                                      <a class="hom" href="icsi.php">Intracytoplasmic Sperm Injection (ICSI)</a>              
-                                   </div>
-                                 
-                                 </div>
-                               </div>
-                             </div> 
-                           </li>
+        <div class="column">         
+           <a class="hom" href="icsi.php">Intracytoplasmic Sperm Injection (ICSI)</a>              
+        </div>
+      
+      </div>
+    </div>
+  </div> 
+</li>
 
 
-                              <li>
-                               <div class="dropdown">
-                                  <button class="dropbtn">Other Specialities
-                                    <i class="fa fa-caret-down"></i>
-                                  </button>
-                                  <div class="dropdown-content">
-                                     
-                                    <div class="row">
-                                      <div class="column">
-                                        
-                                        <a class="hom" href="era.php">Endometrial Receptivity Array</a>
-                                        <a class="hom" href="laser-assisted-hatching.php">Laser-Assisted Hatching</a>
-                                        <a class="hom" href="sperm-freezing.php">Sperm-Freezing</a>
-                                        <a class="hom" href="tubal-recanalization.php">Tubal Recanalization</a>
-                                        <a class="hom" href="myomectomy.php">Myomectomy</a>
-                                        <a class="hom" href="pgd.php">Preimplantation genetic diagnosis and screening</a>
-                                      </div>
-                                      <div class="column">
-                                       
-                                        <a class="hom" href="ovarian-rejuvenation.php">Ovarian Rejuvenation</a>
-                                        <a class="hom" href="uterine-transplant.php">Uterine Transplant</a>
-                                        <a class="hom" href="genetics-and-stem-cell-therapy.php">Genetics and Stem Cell Therapy</a>
-                                        <a class="hom" href="percutaneous-epididymal-sperm-aspiration.php">Percutaneous Epididymal Sperm Aspiration</a>
-                                        <a class="hom" href="computer-assisted-semen-analysis.php">Computer Assisted Semen Analysis</a>
-                                        <a class="hom" href="robotic-surgery.php">Robotic Surgery</a>
-                                      </div>
-                                      <div class="column">
-                                        
-                                        <a class="hom" href="testicular-sperm-aspiration.php">Testicular Sperm Aspiration</a>
-                                        <a class="hom" href="tubal-ligation-reversal.php">Tubal Ligation Reversal</a>
-                                        <a class="hom" href="hysteroscopic-tubal-cornual-cannulation.php">Hysteroscopic Tubal Cornual Cannulation</a>
-                                        <a class="hom" href="uterine-anomalies.php">Uterine Anomalies</a>
-                                        <a class="hom" href="Vaginoplasty.php">Vaginoplasty</a>
-                                        <a class="hom" href="platelet-rich-plasma.php">Platelet Rich Plasma</a>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div> 
-                              </li>
+                    <li>
+                           <div class="dropdown">
+    <button class="dropbtn">Other Specialities
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+       
+      <div class="row">
+        <div class="column">
+          
+          <a class="hom" href="era.php">Endometrial Receptivity Array</a>
+          <a class="hom" href="laser-assisted-hatching.php">Laser-Assisted Hatching</a>
+          <a class="hom" href="sperm-freezing.php">Sperm-Freezing</a>
+          <a class="hom" href="tubal-recanalization.php">Tubal Recanalization</a>
+          <a class="hom" href="myomectomy.php">Myomectomy</a>
+          <a class="hom" href="pgd.php">Preimplantation genetic diagnosis and screening</a>
+        </div>
+        <div class="column">
+         
+          <a class="hom" href="ovarian-rejuvenation.php">Ovarian Rejuvenation</a>
+          <a class="hom" href="uterine-transplant.php">Uterine Transplant</a>
+          <a class="hom" href="genetics-and-stem-cell-therapy.php">Genetics and Stem Cell Therapy</a>
+          <a class="hom" href="percutaneous-epididymal-sperm-aspiration.php">Percutaneous Epididymal Sperm Aspiration</a>
+          <a class="hom" href="computer-assisted-semen-analysis.php">Computer Assisted Semen Analysis</a>
+          <a class="hom" href="robotic-surgery.php">Robotic Surgery</a>
+        </div>
+        <div class="column">
+          
+          <a class="hom" href="testicular-sperm-aspiration.php">Testicular Sperm Aspiration</a>
+          <a class="hom" href="tubal-ligation-reversal.php">Tubal Ligation Reversal</a>
+          <a class="hom" href="hysteroscopic-tubal-cornual-cannulation.php">Hysteroscopic Tubal Cornual Cannulation</a>
+          <a class="hom" href="uterine-anomalies.php">Uterine Anomalies</a>
+          <a class="hom" href="Vaginoplasty.php">Vaginoplasty</a>
+          <a class="hom" href="platelet-rich-plasma.php">Platelet Rich Plasma</a>
+        </div>
+      </div>
+    </div>
+  </div> 
+</li>
 
                           <!--  <li class="dropdown"><a href="#" data-scroll-nav="1">About Us</a> 
                                <ul>
@@ -283,7 +283,7 @@
                </div>
              <div class="hide col-md-4">
                <div class="col-md-12 d-flex align-items-center top-right">
-                   <a href="book-an-appointment" class="book-an-btn">Book appointment</a>
+                   <a href="" class="book-an-btn">Book appointment</a>
                   <div class="call-buton">
                      <a class="cc-calto-action-ripple call" href="tel:9940105555"><i class="fa fa-phone"></i><span class="num"></span></a>
                   <p>99401 05555</p>
@@ -302,3 +302,25 @@
 
 
       
+
+        <section class="sec1">
+          <div class="container">
+             <div class="row" style="">          
+                                                                      
+            <div class="row" style="display: flex; padding-top: 200px; padding-bottom: 80px;">                                                   
+                <div class="col-md-10 p-0" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
+                       <?php include ('admin/front-end/book-test.php'); ?>
+                </div>                                                                                                       
+            </div>
+             
+          </div>
+        </section>
+
+
+
+
+          <!-- Footer Area Start-->
+
+          <?php include 'footer.php'; ?>
+      
+      <!-- Footer Area End!-->

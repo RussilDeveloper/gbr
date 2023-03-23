@@ -76,7 +76,7 @@
         
           
              <div class="container">      
-                 <div class="row" style="padding-top: 50px; padding-bottom: 50px;">   
+                 <div class="row" style="padding-top: 50px; padding-bottom: 0px;">   
                <div class="col-md-12" style="padding-top: 100px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/Post-Pregnancy-care.png" alt="">
@@ -105,7 +105,7 @@
             </div> 
          
               
-               <div class="row">
+                <div class="row" style="padding-top:50px">
                 <div class="col-md-4 p-0" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
                        <?php include ('admin/front-end/book-test.php'); ?> 
                 </div>   

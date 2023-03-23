@@ -23,7 +23,7 @@
         .wh {padding-left: 20px} 
          .sec1{background-color:#D1F0F1; padding-bottom:60px;}
          .bk{margin-top: 50px;}
-         .fs{margin-bottom:20px; font-weight: 700; padding-top: 20px;}
+         .fs{margin-bottom:20px; font-weight: 700; padding-top: 20px; font-size: 30px !important;}
          .fs1{padding-bottom:15px; font-weight: 700;}
          .txt1{color: #000; font-size: 20px;font-weight: 400; text-align: justify;}
          .hed{color:#ffffff; font-size: 45px; font-weight: normal ;text-align: center;}
@@ -77,10 +77,10 @@
         
           
             <div class="container">      
-                 <div class="row" style="padding-top: 50px; padding-bottom: 50px;">   
+                 <div class="row" style="padding-top: 50px; padding-bottom: 0px;">   
                <div class="col-md-12" style="padding-top: 100px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
-                     src="assets/img/Understanding-Obesity-Pregnancy.png" alt="">
+                     src="assets/img/pregnancy.png" alt="">
                       <div class="container">
                         
                         <h1 style="padding-top: 80px">Understanding Obesity - Pregnancy</h1>
@@ -107,7 +107,7 @@
             </div> 
          
               
-               <div class="row">
+               <div class="row" style="padding-top:30px">
                 <div class="col-md-4 p-0" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
                        <?php include ('admin/front-end/book-test.php'); ?> 
                 </div>   

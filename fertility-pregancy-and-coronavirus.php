@@ -127,7 +127,7 @@
             </div> 
          
               
-               <div class="row">
+                <div class="row" style="padding-top:30px">
                 <div class="col-md-4 p-0" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
                        <?php include ('admin/front-end/book-test.php'); ?> 
                 </div>   

@@ -132,7 +132,7 @@
 
                
                 <div class="col-md-4 p-0 mbl" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
-                       <?php include ('admin/front-end/book-test.php'); ?>
+                       <?php include ('admin/front-end/book-test.php'); ?><br><br>
                 </div>                                                                                                       
             </div>
              

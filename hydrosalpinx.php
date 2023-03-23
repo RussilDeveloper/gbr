@@ -132,19 +132,19 @@ s
                         <p class="blg">If you are experiencing a dull aching pelvic pain and are finding it difficult to conceive, do not delay and visit the fertility specialist immediately.
                         </p>
 
-                         <p class="blg">If you are experiencing any unusual pain in your abdomen or pelvic area call <b>+91 93846 81770</b> and fix a consultation right away. Remember, an early diagnosis can help detect the presence of any conditions like Hydrosalpinx and help cure it at its early stages. This ensures to keep your fertility intact. Rela fertility experts will be able to talk through the different treatment options and help you choose the one best for your situation.
+                         <p class="blg">If you are experiencing any unusual pain in your abdomen or pelvic area call <b>+91 93846 81770</b> and fix a consultation right away. Remember, an early diagnosis can help detect the presence of any conditions like Hydrosalpinx and help cure it at its early stages. This ensures to keep your fertility intact. Our fertility experts will be able to talk through the different treatment options and help you choose the one best for your situation.
                         </p>
                                                                        
                </div> 
             </div> 
          
               
-               <div class="row">
+                <div class="row" style="padding-top:30px">
                 <div class="col-md-4 p-0" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
                        <?php include ('admin/front-end/book-test.php'); ?> 
                 </div>   
                </div>    
-         </div>                                                                                                
+            </div>                                                                                                
      
          </section>    
           

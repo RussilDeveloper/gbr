@@ -92,9 +92,9 @@
 
                <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
-                     src="assets/img/gbr-ivf1.jpg" alt="">
+                     src="assets/img/ivf.png" alt="">
                      <a href="ivf-blog.php">
-                     <h5 style="padding-top:20px;">What is IVF?</h5>
+                     <h5 style="padding-top:20px; padding-bottom: 20px">What is IVF?</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>   
@@ -103,7 +103,7 @@
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
                      src="assets/img/corono-virus.jpg" alt="">                   
                      <a href="fertility-pregancy-and-coronavirus.php">
-                    <h5 style="padding-top:20px;">Pregnancy And Coronavirus</h5>
+                    <h5 style="padding-top:20px; padding-bottom: 20px">Pregnancy And Coronavirus</h5>
                         <div class="btn1 button1">Read More</div>
                      </a>                                                    
                </div>  
@@ -112,7 +112,7 @@
 
                <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
-                     src="assets/img/male-infertility.jpg" alt="">
+                     src="assets/img/male-infertility.png" alt="">
                      <a href="male-infertility.php">
                        <h5 class="mbl2" style="padding-top:20px; padding-bottom: 20px;">What is Male Infertility?</h5>
                         <div class="btn1 button1">Read More</div>
@@ -121,7 +121,7 @@
 
                <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
-                     src="assets/img/Fertility.png" alt="">                   
+                     src="assets/img/know-about-pregnancy.png" alt="">                   
                      <a href="know-about-fertility.php">
                        <h5 style="padding-top:20px;">Know about Fertility - 7 Things Men should look out for</h5>
                         <div class="btn1 button1">Read More</div>
@@ -130,7 +130,7 @@
 
                 <div class="col-md-4 mbl" style="padding: 50px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
-                     src="assets/img/Understanding-Obesity-Pregnancy.png" alt="">
+                     src="assets/img/pregnancy.png" alt="">
                      <a href="understanding-obesity-pregnancy.php">
                           <h5 class="mbl2" style="padding-top:20px; padding-bottom: 20px;">Understanding Obesity Pregnancy</h5>
                          <div class="btn1 button1">Read More</div>
@@ -159,11 +159,12 @@
            
                                                                       
            
-
+                
                
                 <div class="col-md-4 p-0" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
                        <?php include ('admin/front-end/book-test.php'); ?>
-                </div>                                                                                                       
+                </div>
+                                                                                                                    
             </div>
              
           

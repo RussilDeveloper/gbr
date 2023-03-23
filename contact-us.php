@@ -79,7 +79,8 @@ body {font-family: Arial;}
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
-  font-size: 17px;
+  font-size: 23px;
+  a.hover:#ffffff;
 
 }
 
@@ -91,13 +92,13 @@ body {font-family: Arial;}
 /* Create an active/current tablink class */
 .tab button.active {
   background-color: #ffffff;
+  font-size: 25px;
 }
 
 /* Style the tab content */
 .tabcontent {
   display: none;
   padding: 6px 12px;
-  border: 1px solid #ccc;
   border-top: none;
 }
 
@@ -286,7 +287,7 @@ a:hover {
                                 <i class="fa fa-map-marker envelope">
                                                           </i>
                                 <span class="txt1" style="padding-left: 5px;">GBR Fertility Centre And Hospitals
-                                VKS Towers No.99/1, Chairman Duraisamy Road, Krishnagiri Road, Tirupattur-635602,
+                                VKS Towers No.99/1, Chairman Duraisamy Road, Krishnagiri Road,<br> Tirupattur-635602,
                                 Vellore District., Landmark: Next to Hotel Hills, Tirupattur.</span>
 
 

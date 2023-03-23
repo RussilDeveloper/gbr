@@ -1,4 +1,4 @@
-s
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -79,10 +79,10 @@ s
         
           
             <div class="container">      
-                 <div class="row" style="padding-top: 50px; padding-bottom: 50px;">   
+             <div class="row" style="padding-top: 50px; padding-bottom: 50px;">   
                <div class="col-md-12" style="padding-top: 100px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
-                     src="assets/img/Fertility.jpg" alt=""></div>
+                     src="assets/img/know-about-pregnancy.png" alt=""></div>
                      <div class="container">
                     
                        <h1 style="padding-top:50px;">Know about Fertility - 7 Things Men should look out for</h1>
@@ -102,8 +102,8 @@ s
                 <div class="col-md-4 p-0" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
                        <?php include ('admin/front-end/book-test.php'); ?> 
                 </div>   
-                </div>                                                                                                    
-                </div>
+               </div>                                                                                                    
+          </div>
          </section>    
           
     

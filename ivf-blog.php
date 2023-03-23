@@ -81,7 +81,7 @@ s
                  <div class="row" style="padding-top: 50px; padding-bottom: 50px;">   
                <div class="col-md-12" style="padding-top: 100px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
-                     src="assets/img/gbr-ivf1.jpg" alt=""></div>
+                     src="assets/img/ivf.png" alt=""></div>
                      <div class="container">
                     
                         <h1 style="padding-top:50px;">What is IVF?</h1>

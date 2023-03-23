@@ -81,9 +81,9 @@
                  <div class="row" style="padding-top: 50px; padding-bottom: 50px;">   
                <div class="col-md-12" style="padding-top:100px"> 
                     <img style="border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;"
-                     src="assets/img/male-infertility.jpg" alt="">
+                     src="assets/img/male-infertility.png" alt="">
                    <div class="container">
-                      <h1 style="padding-top: 80px">Male infertility</h1>
+                      <h1 style="padding-top:50px">Male infertility</h1>
                         
 
                         <p class="blg">Male infertility is a term that most of you must have heard. It can be defined as the inability of a man to reproduce and with changing times and lifestyle problems is becoming more and more common. There are more than 15% men in India that are suffering from the problem of male infertility and with every passing day things are only getting worse as far as male infertility is concerned. So, the need of the hour is to be concerned about the problem and make sure that it can be minimized.</p> 
@@ -124,14 +124,15 @@
                                                                                     
               </div> 
             </div> 
+             </div>
          
               
-               <div class="row">
+               <div class="row" style="padding-top:30px">
                 <div class="col-md-4 p-0" style="margin: 0 auto; border-radius: 10px; vertical-align: middle;">
                        <?php include ('admin/front-end/book-test.php'); ?> 
                 </div>   
                </div>    
-          </div>                                                                                                
+                                                                                                         
      
          </section>    
               
